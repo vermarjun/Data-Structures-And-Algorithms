@@ -63,10 +63,7 @@ Node* addTwoLists(Node* num1, Node* num2) {
     if (len1>=len2){
         return solve(num1, num2, len1, len2);
     }
-    else {
-        return solve(num2, num1, len2, len1);
-    }
-    return NULL;
+    return solve(num2, num1, len2, len1);
 }
 
 int main(){
