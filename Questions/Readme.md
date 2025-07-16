@@ -1,1 +1,1 @@
-This is where i manage solutions of all good or thought provoking questions or questions that are worth coming back to. 
+This is where I manage solutions of all DSA QUestions or some good/thought provoking questions that are worth coming back to. 
